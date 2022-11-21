@@ -1,0 +1,8 @@
+{
+  "gitlens.autolinks": [
+    {
+      "regex": "(JENKINS-[0-9]+)",
+      "url": "https://issues.jenkins.io/browse/<num>"
+    }
+  ]
+}
